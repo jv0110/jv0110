@@ -9,11 +9,11 @@ while reading some articles related to the technologies i'm currently learning o
   
   :pushpin: Javascript
   
-  📌: Angular
+  📌 Angular
   
   :pushpin: Vuejs
   
-  📌: Typescript
+  📌 Typescript
   
   :pushpin: Nodejs
   
