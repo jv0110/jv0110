@@ -26,7 +26,7 @@ while reading some articles related to the technologies i'm currently learning o
 - :mortar_board: Currently i'm a college student on the second year of Computed Science course and been working remotely as a developer for a marketing agency
 located in São Paulo. My job there includes: Developing landing pages, CRM integration and deploy of those pages.
 
-- :telephone: Want ot konw me better? Here are some ways you can contact me:
+- :telephone: Want to know me better? Here are some ways you can contact me:
 
   :telephone_receiver: phone - +55 (11) 987883004
   
